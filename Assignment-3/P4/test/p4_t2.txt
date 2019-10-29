@@ -1,0 +1,7 @@
+5
+apple
+banana
+grapes
+mango
+orange
+mango
